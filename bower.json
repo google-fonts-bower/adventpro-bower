@@ -1,0 +1,17 @@
+{
+    "name": "adventpro-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Andreas Kalpakidis"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/adventpro-bower.git"
+    },
+    "description": "Advent Pro font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
